@@ -3,6 +3,9 @@
 
     <string name="app_name">MobileProtoDay1</string>
     <string name="hello_world">Hello world!</string>
+    <string name="button_text">This is a button!</string>
+    <string name="different_string">New String 1</string>
+    <string name="different_string2">New String 2</string>
     <string name="action_settings">Settings</string>
 
 </resources>
